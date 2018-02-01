@@ -298,7 +298,7 @@
           },
           "title": "Approved",
           "text": "Our staff will work through approving your application. Once approved you will be issued a link to your e-Permit. You can print this e-Permit for your records.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#msg-box5-h\" data-toolbar=\"-mbrBtnMove\">Rejections</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box5-h\" data-toolbar=\"-mbrBtnMove\">Incompletions</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#msg-box5-b\" data-toolbar=\"-mbrBtnMove\">Rejections</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box5-h\" data-toolbar=\"-mbrBtnMove\">Incompletions</a>",
           "_tags": [
             "Theme"
           ],
