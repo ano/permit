@@ -39,8 +39,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Invoice",
-        "meta_descr": "Invoicing tool to keep track invoice payments",
+        "title": "e-Permit",
+        "meta_descr": "Apply for fishing permits electronically",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -142,7 +142,7 @@
           },
           "title": "Apply",
           "text": "Use the online form to lodge an application for a fishing permit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#msg-box5-a\" data-toolbar=\"-mbrBtnMove\">Next: Email Notification</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-a\" data-toolbar=\"-mbrBtnMove\">Next: Email Notification</a>",
           "_tags": [
             "Theme"
           ],
@@ -194,7 +194,7 @@
           },
           "title": "Notify",
           "text": "You will get a confirmation<b> email notification&nbsp;</b>with a link to track the applications status. Fisheries Officers will begin the process to review your application.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#msg-box5-i\" data-toolbar=\"-mbrBtnMove\">Next: Invoice Payment</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-i\" data-toolbar=\"-mbrBtnMove\">Next: Invoice Payment</a>",
           "_tags": [
             "Theme"
           ],
@@ -246,7 +246,7 @@
           },
           "title": "Invoice",
           "text": "If you pass the due dilligence tests you will be sent an invoice for payment. Once payment is made your permit will be approved.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#msg-box5-g\" data-toolbar=\"-mbrBtnMove\">Next: Permit Outcome</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-g\" data-toolbar=\"-mbrBtnMove\">Next: Permit Outcome</a>",
           "_tags": [
             "Theme"
           ],
@@ -298,7 +298,7 @@
           },
           "title": "Approved",
           "text": "Our staff will work through approving your application. Once approved you will be issued a link to your e-Permit. You can print this e-Permit for your records.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#msg-box5-b\" data-toolbar=\"-mbrBtnMove\">Status: Rejected</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box5-h\" data-toolbar=\"-mbrBtnMove\">Status: Incomplete</a>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#msg-box5-b\" data-toolbar=\"-mbrBtnMove\">Status: Rejected</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box5-h\" data-toolbar=\"-mbrBtnMove\">Status: Incomplete</a>",
           "_tags": [
             "Theme"
           ],
