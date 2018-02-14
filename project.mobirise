@@ -454,7 +454,7 @@
           },
           "title": "Incomplete",
           "text": "On occation your application will be set to incomplete if some of the information was not provided. You will then be issued with a <b><i>new link</i></b> to refill and resend the application.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#msg-box5-b\" data-toolbar=\"-mbrBtnMove\">Rejected Applications</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#msg-box5-b\" data-toolbar=\"-mbrBtnMove\">Rejected Applications</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-b\" data-toolbar=\"-mbrBtnMove\">Back to Top</a>",
           "_tags": [
             "Theme"
           ],
