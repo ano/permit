@@ -194,7 +194,7 @@
           },
           "title": "Notify",
           "text": "You will get a confirmation<b> email notification&nbsp;</b>with a link to track the applications status. Fisheries Officers will begin the process to review your application.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-i\" data-toolbar=\"-mbrBtnMove\">Next: Goodstanding Check</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-j\" data-toolbar=\"-mbrBtnMove\">Next: Goodstanding Check</a>",
           "_tags": [
             "Theme"
           ],
