@@ -31,7 +31,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/invoice-128x127-1.png",
     "noImageResize": "",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 21,
+    "uniqCompNum": 25,
     "versionPublish": "4.5.4",
     "screenshot": "screenshot.png"
   },
@@ -90,7 +90,7 @@
           },
           "title": "e-Permit",
           "text": "Click <b>Apply</b> to lodge a digital application for a fishing permit&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://form.tklapp.com/forms/v7/view.php?id=10257\" data-toolbar=\"-mbrBtnMove\">Apply</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#msg-box5-8\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://licensing.tklapp.com/fm/\" data-toolbar=\"-mbrBtnMove\">Apply</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#msg-box5-8\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
           "_tags": [
             "Theme"
           ],
