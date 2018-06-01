@@ -90,7 +90,7 @@
           },
           "title": "e-Permit",
           "text": "Click <b>Apply</b> to lodge a digital application for a fishing permit&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://licensing.tklapp.com/fm/\" data-toolbar=\"-mbrBtnMove\">Apply</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#msg-box5-8\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://licensing.tklapp.com/fm/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Apply</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#msg-box5-8\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
           "_tags": [
             "Theme"
           ],
